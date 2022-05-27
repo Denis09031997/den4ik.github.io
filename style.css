@@ -1,0 +1,12 @@
+body {
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+section {
+    border: 2px solid blueviolet;
+}
